@@ -3,6 +3,8 @@
 
 My Name (Elsa wirda saputra)
 
+Age: 19 Years
+
 🥇 Main Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,androidstudio,visualstudio)](https://skillicons.dev)
